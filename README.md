@@ -78,9 +78,21 @@ This project analyzes the **Sample Superstore** dataset to uncover trends in sal
 
 ---
 
-## 📎 Output
 
-- 📊 Interactive Power BI dashboard  
-- 📄 Summary exported as PDF or screenshots  
-- 📁 Excel file with cleaned data
+## 🚀 Project Status
+
+✅ Data cleaned and preprocessed  
+✅ Dashboard visuals created  
+✅ Storyboard and summary completed
+
+---
+
+## 🧠 Key Takeaways
+
+- Clean and structured data enables better insights  
+- Visual storytelling enhances decision-making  
+- Slicers and dynamic visuals make the dashboard interactive and user-friendly
+
+
+
 
